@@ -1,0 +1,30 @@
+p {
+    color: brown;
+    background-color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+
+}
+
+/* This the h1 selecot */
+h1 {
+    color: brown;
+    font-size: 1.7rem;
+    text-align: left;
+}
+
+body {
+    background-image: url(flyga-drake-poster.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 100vh;
+}
+
+img {
+    display: block;
+}
+
+div {
+    width: 100%;
+    margin: 0 auto;
+}
